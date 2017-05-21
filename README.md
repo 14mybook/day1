@@ -1,1 +1,3 @@
 # day1
+Hi to all big brains !
+It's my first day and it feels like i'm learning something ! What ??? I don't know yet ...
